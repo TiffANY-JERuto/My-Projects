@@ -1,0 +1,61 @@
+.pagecontent{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+ 
+h1{
+	font-family: courier, monospace;
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 2em;
+	color: orange;
+}
+
+h2{
+	font-family: courier, monospace;
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 2em;
+	color: orange;
+}
+	
+h3{
+	font-family: courier, monospace;
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 2em;
+	color: orange;
+}
+
+p {
+	font-family: courier, monospace;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 1em;
+	color: black;
+}
+
+li {
+	font-family: courier, monospace;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 1em;
+	color: black;
+}
+
+body {
+	background-color: dark blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
